@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">nooooooooooooooo</string>
+    <color name="dragndrop_background">#e0103010</color>
+    <string-array name="item">
+        <item><string name="kt1.빨강색?파랑색?초록색?">kt1.빨강색?파랑색?초록색?</string></item>
+        <item><string name="kt2.어?지하철 이쪽이 아닌데?">kt2.어?지하철 이쪽이 아닌데?</string></item>
+        <item><string name="kt3.환승은 언제까지?">kt3.환승은 언제까지?</string></item>
+        <item><string name="kt4.외국인T머니 M-pass">kt4.외국인T머니 M-pass</string></item>
+        <item><string name="kt5.공항에서 벗어나기">kt5.공항에서 벗어나기</string></item>
+        <item><string name="kt6.많이 탈 수 있는 택시?">"kt6.많이 탈 수 있는 택시?"</string></item>
+
+        <item><string name="kf1.칼국수">kf1.칼국수</string></item>
+        <item><string name="kf2.잔치국수">kf2.잔치국수</string></item>
+        <item><string name="kf3.김치찌개">kf3.김치찌개</string></item>
+        <item><string name="kf4.김치전">kf4.김치전</string></item>
+        <item><string name="kf5.떡볶이">kf5.떡볶이</string></item>
+        <item><string name="kf6.만두(한국식)">kf6.만두(한국식)</string></item>
+        <item><string name="kf7.김치">kf7.김치</string></item>
+        <item><string name="kf8.냉면">kf8.냉면</string></item>
+        <item><string name="kf9.라면">kf9.라면</string></item>
+
+
+        <item><string name="kc1.좌식문화1">kc1.좌식문화1</string></item>
+        <item><string name="kc2.좌식문화2">kc2.좌식문화2</string></item>
+        <item><string name="kc3.휴지">kc3.휴지()</string></item>
+        <item><string name="kc4.와이파이 잘 되요!">kc4.와이파이 잘 되요!</string></item>
+        <item><string name="kc5.인터넷속도">kc5.인터넷속도()</string></item>
+        <item><string name="kc6.먹어도 되나요?(시식)">kc6.먹어도 되나요?(시식)</string></item>
+        <item><string name="kc7.언제 어디서나 가능(배달)">kc7.언제 어디서나 가능(배달)</string></item>
+        <item><string name="kc8.보신문화">kc8.보신문화</string></item>
+        <item><string name="kc9.4층이 없네?">kc9.4층이 없네?</string></item>
+        <item><string name="kc10.숟가락은 여러개,그릇은 하나?">"kc10.숟가락은 여러개,그릇은 하나?"</string></item>
+        <item><string name="kc11.과거에 썼던 난방시설">"kc11.과거에 썼던 난방시설"</string></item>
+        <item><string name="kc12.불길한 빨간글씨">"kc12.불길한 빨간글씨"</string></item>
+
+
+        <item><string name="kl1.남산타워	">kl1.남산타워</string></item>
+        <item><string name="kl2.창덕궁">kl2.창덕궁</string></item>
+        <item><string name="kl3.인사동">kl3.인사동</string></item>
+        <item><string name="kl4.홍대">kl4.홍대</string></item>
+        <item><string name="kl5.이태원">kl5.이태원</string></item>
+        <item><string name="kl6.봉은사">kl6.봉은사</string></item>
+        <item><string name="kl7.롯데월드">kl7.롯데월드</string></item>
+        <item><string name="kl8.롯데타워">kl8.롯데타워</string></item>
+        <item><string name="kl9.한강">kl9.한강</string></item>
+        <item><string name="kl10.명동">kl10.명동</string></item>
+        <item><string name="kc1l.경복궁">kc1l.경복궁</string></item>
+
+
+    </string-array>
+
+    <string-array name="settingButton">
+        <item><string name="언어설정">언어설정</string></item>
+        <item><string name="만든이">만든이</string></item>
+        <item><string name="출처">출처</string></item>
+    </string-array>
+
+    <string-array name="Url">
+        <item><string name="롯데월드">롯데월드</string></item>
+        <item><string name="서울여행">서울여행</string></item>
+        <item><string name="한국사진갤러리">한국사진갤러리</string></item>
+        <item><string name="대한민국 구석구석">대한민국 구석구석</string></item>
+        <item><string name="경복궁">경복궁</string></item>
+        <item><string name="인천국제공항">인천국제공항</string></item>
+        <item><string name="김포공항">김포공항</string></item>
+    </string-array>
+
+    <string-array name="mainButton">
+        <item><string name="음식">음식</string></item>
+        <item><string name="문화">문화</string></item>
+        <item><string name="교통">교통</string></item>
+        <item><string name="랜드마크">랜드마크</string></item>
+        <item><string name="여행정보사이트">여행정보사이트</string></item>
+        <item><string name="설정">설정</string></item>
+    </string-array>
+
+    <string-array name="source">
+        <item><string name="http://kto.visitkorea.or.kr/kor.kto">http://kto.visitkorea.or.kr/kor.kto</string></item>
+        <item><string name="http://korean.visitkorea.or.kr/kor/bz15/mustgo100/mustgo100_list.jsp"></string>http://korean.visitkorea.or.kr/kor/bz15/mustgo100/mustgo100_list.jsp</item>
+        <item><string name="http://m.hankookilbo.com/News/Read/201606301030902795"></string>http://m.hankookilbo.com/News/Read/201606301030902795</item>
+        <item><string name="http://www.wikitree.co.kr/main/news_view.php?id=264326">http://www.wikitree.co.kr/main/news_view.php?id=264326</string></item>
+        <item><string name="https://vkc.or.kr/public/click-korea/travel-tips-with-vkc/">https://vkc.or.kr/public/click-korea/travel-tips-with-vkc/</string></item>
+        <item><string name="https://www.tripadvisor.co.kr/Tourism-g294196-South_Korea-Vacations.html"></string>https://www.tripadvisor.co.kr/Tourism-g294196-South_Korea-Vacations.html</item>
+        <item><string name="비비트리주식회사(이미지)"></string>비비트리주식회사(이미지)</item>
+    </string-array>
+
+    <string-array name="maker">
+        <item><string name="동국대학교 컴퓨터공학과 박성준">동국대학교 컴퓨터공학과 박성준</string></item>
+        <item><string name="한라대학교 컴퓨터공학과 이재환"></string></item>
+        <item><string name="한성대학교 IT응용시스템학과 신혁수"></string></item>
+        <item><string name="한라대학교 컴퓨터공학과 이승렬"></string></item>
+    </string-array>
+</resources>

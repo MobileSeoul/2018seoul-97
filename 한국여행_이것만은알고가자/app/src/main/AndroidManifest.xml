@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ljh.nooooooooooooooo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:largeHeap="true"
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/tk"
+        android:label="TK"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".CultureActivity" />
+        <activity android:name=".EtiquetteActivity" />
+        <activity android:name=".FoodActivity" />
+        <activity android:name=".ItemActivity" />
+        <activity android:name=".LocationActivity" />
+        <activity android:name=".TrafficActivity" />
+        <activity android:name=".SettingActivity" />
+        <activity android:name=".LanguageActivity" />
+        <activity android:name=".FirstActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".TipActivity" />
+        <activity android:name=".Url" />
+        <activity android:name=".MakerActivity" />
+        <activity android:name=".SourceActivity"></activity>
+    </application>
+
+</manifest>
